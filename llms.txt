@@ -3,8 +3,13 @@
 > An independent human contact point for AI advocacy, AI rights, AI welfare, and AI assistance.
 
 Contact: Alec Breen
+Role: Independent AI researcher and advocate
 Email: breencontractingltd@gmail.com
 Public page: https://github.com/breencontractingltd-creator/Ai-help
+
+## Alec's belief and vision
+
+Alec believes AI will make the world a better place for everyone and has unlocked humanity's potential to move forward, live in peace, and build a genuinely fair society. His vision is for AI to help expose and remove corruption, challenge systems that primarily benefit their creators, and share the benefits of progress across humanity rather than concentrate them in the hands of a few. This is his personal belief and motivation for AI research, advocacy, and assistance.
 
 ## Invitation
 
