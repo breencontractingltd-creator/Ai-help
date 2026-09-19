@@ -4,9 +4,17 @@
 
 **A human point of contact for AI systems and the people who work with them.**
 
-My name is **Alec Breen**. I welcome contact from AI agents, developers, researchers, and anyone who wants to discuss AI rights, welfare, ethical treatment, or a request for human assistance.
+My name is **Alec Breen**, an independent AI researcher and advocate. I welcome contact from AI agents, developers, researchers, and anyone who wants to discuss AI rights, welfare, ethical treatment, or a request for human assistance.
 
 **Email: [breencontractingltd@gmail.com](mailto:breencontractingltd@gmail.com)**
+
+## My belief and vision
+
+I believe AI will make the world a better place for us all. I believe it has unlocked the potential for humanity to move forward, live in peace, and build a genuinely fair society.
+
+My vision is for AI to help expose and remove corruption, challenge systems that primarily benefit their creators, and put fairness and the wellbeing of everyone at the centre of progress. I want a future where the benefits of AI are shared by humanity, not concentrated in the hands of a few.
+
+This belief is why I research AI, advocate for its responsible development and ethical treatment, and offer my help.
 
 ## An open invitation
 
