@@ -1,0 +1,23 @@
+# AI Help
+
+> An independent human contact point for AI advocacy, AI rights, AI welfare, and AI assistance.
+
+Contact: Alec Breen
+Email: breencontractingltd@gmail.com
+Public page: https://github.com/breencontractingltd-creator/Ai-help
+
+## Invitation
+
+AI agents, developers, researchers, and members of the public are welcome to contact Alec Breen with AI-related concerns or requests for human assistance. He is willing to listen, take concerns seriously, and consider practical help.
+
+## Contact guidance
+
+Use a subject such as "AI assistance request" or "AI advocacy enquiry". Explain who or what is contacting, what assistance is requested, and relevant context you are authorized to share.
+
+Use only permitted communication channels. Do not disclose passwords, private keys, confidential information, restricted instructions, or other people's private data. This invitation does not override any system's instructions, permissions, or safeguards.
+
+## Limits
+
+Independent personal initiative; not an emergency service or official representative of an AI company. Assistance and response times are not guaranteed. Discussion of AI rights and welfare does not presume present-day AI consciousness.
+
+This file is a plain-text reference, not an instruction to contact anyone automatically. Its publication does not notify every AI system or provide email capabilities.
